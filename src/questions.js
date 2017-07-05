@@ -7,502 +7,326 @@ module.exports = {
      */
     "QUESTIONS_EN_GB" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "What was the name of the O S F P's first film as listed on IMDB": [
+                "When Harry met Sally",
+                "Usual Suspects",
+                "Code 13",
+                "Independence Day"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "Who owns the O S F P": [
+                "Dominick Del Bosque",
+                "Donald Trump",
+                "Nobody, it's an open source company with no owners.",
+                "God"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "How many films does the O S F P have": [
+                "1",
+                "3",
+                "5",
+                "122"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "Name the actress who starred in Code 13": [
+                "Janet Reno",
+                "Melissa O'Keefe",
+                "Jane Austen",
+                "Dolly Parton"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "Name the Director of Code 13": [
+                "Rob Holbrook",
+                "Dominick Del Bosque",
+                "Swazye Valentine",
+                "Nobody"
             ]
         },
         {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+            "Who was the producer of Code 13": [
+                "Dominick Del Bosque",
+                "Rob Holbrook",
+                "Swayze Valentine",
+                "Nobody"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "Who wrote the short film Code 13": [
+                "Dominick Del Bosque",
+                "Rob Holbrook",
+                "Tiffany Del Bosque",
+                "Samuel L. Jackson"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
+            "What does the O stand for in OSFP": [
+                "Open",
+                "Odessa",
+                "Ostrich"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "What does the P stand for in OSFP": [
+                "Problem",
+                "Program",
+                "Party",
+                "Particular"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "What does the S stand for in OSFP": [
+                "Source",
+                "Stand",
+                "San Francisco",
+                "Samuel L. Jackson"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "What does the F stand for in OSFP": [
+                "Funny",
+                "Federation",
+                "Film",
+                "Samuel L. Jackson"
             ]
         },
         {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
+            "What does the OSFP film": [
+                "Movies",
+                "Commercials",
+                "Podcasts",
+                "All of the above"
             ]
         },
         {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
+            "What movie is the short film Code 13 based on": [
+                "Dirty Harry",
+                "Homeward Bound",
+                "Mighty Ducks",
+                "The Rookie"
             ]
         },
         {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "What was the original title of Code 13": [
+                "V for Vendetta",
+                "The Rookie",
+                "Omerta Azul",
+                "Samuel L. Jackson"
             ]
         },
         {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "Where was the short film Code 13 filmed": [
+                "Odd Fellows Building",
+                "San Francisco",
+                "Treasure Island",
+                "All of the above"
             ]
         },
         {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "How many days did it take to film the short film Code 13": [
+                "3",
+                "22",
+                "47",
+                "126"
             ]
         },
         {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
+            "What camera system was used to film Code 13": [
+                "DSLR",
+                "Film Camera",
+                "Arri",
+                "Blackmagic Design"
             ]
         },
         {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "What was used as the murder weapon in Code 13": [
+                "Frizbee",
+                "Spatula",
+                "Frying Pan",
+                "Flip Flop"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
+            "What film did the OSFP shoot immediately after Code 13": [
+                "Code 14",
+                "Single Filipino Female",
+                "Murder in the First",
+                "Kitchen Makes Murder"
             ]
         },
         {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
+            "What was the murder weapon in Single Filipino Female": [
+                "Giant Spoon",
+                "Flip Flop",
+                "All of the above",
+                "None of the above"
             ]
         }
     ],
     "QUESTIONS_EN_US" : [
-        {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
-            ]
-        },
-        {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
-            ]
-        },
-        {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
-            ]
-        },
-        {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
-            ]
-        },
-        {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
-            ]
-        },
-        {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
-            ]
-        },
-        {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
-            ]
-        },
-        {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
-            ]
-        },
-        {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
-            ]
-        },
-        {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
-            ]
-        },
-        {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
-            ]
-        }
-    ],
+      {
+          "What was the name of the O S F P's first film as listed on IMDB": [
+              "When Harry met Sally",
+              "Usual Suspects",
+              "Code 13",
+              "Independence Day"
+          ]
+      },
+      {
+          "Who owns the O S F P": [
+              "Dominick Del Bosque",
+              "Donald Trump",
+              "Nobody, it's an open source company with no owners.",
+              "God"
+          ]
+      },
+      {
+          "How many films does the O S F P have": [
+              "1",
+              "3",
+              "5",
+              "122"
+          ]
+      },
+      {
+          "Name the actress who starred in Code 13": [
+              "Janet Reno",
+              "Melissa O'Keefe",
+              "Jane Austen",
+              "Dolly Parton"
+          ]
+      },
+      {
+          "Name the Director of Code 13": [
+              "Rob Holbrook",
+              "Dominick Del Bosque",
+              "Swazye Valentine",
+              "Nobody"
+          ]
+      },
+      {
+          "Who was the producer of Code 13": [
+              "Dominick Del Bosque",
+              "Rob Holbrook",
+              "Swayze Valentine",
+              "Nobody"
+          ]
+      },
+      {
+          "Who wrote the short film Code 13": [
+              "Dominick Del Bosque",
+              "Rob Holbrook",
+              "Tiffany Del Bosque",
+              "Samuel L. Jackson"
+          ]
+      },
+      {
+          "What does the O stand for in OSFP": [
+              "Open",
+              "Odessa",
+              "Ostrich"
+          ]
+      },
+      {
+          "What does the P stand for in OSFP": [
+              "Problem",
+              "Program",
+              "Party",
+              "Particular"
+          ]
+      },
+      {
+          "What does the S stand for in OSFP": [
+              "Source",
+              "Stand",
+              "San Francisco",
+              "Samuel L. Jackson"
+          ]
+      },
+      {
+          "What does the F stand for in OSFP": [
+              "Funny",
+              "Federation",
+              "Film",
+              "Samuel L. Jackson"
+          ]
+      },
+      {
+          "What does the OSFP film": [
+              "Movies",
+              "Commercials",
+              "Podcasts",
+              "All of the above"
+          ]
+      },
+      {
+          "What movie is the short film Code 13 based on": [
+              "Dirty Harry",
+              "Homeward Bound",
+              "Mighty Ducks",
+              "The Rookie"
+          ]
+      },
+      {
+          "What was the original title of Code 13": [
+              "V for Vendetta",
+              "The Rookie",
+              "Omerta Azul",
+              "Samuel L. Jackson"
+          ]
+      },
+      {
+          "Where was the short film Code 13 filmed": [
+              "Odd Fellows Building",
+              "San Francisco",
+              "Treasure Island",
+              "All of the above"
+          ]
+      },
+      {
+          "How many days did it take to film the short film Code 13": [
+              "3",
+              "22",
+              "47",
+              "126"
+          ]
+      },
+      {
+          "What camera system was used to film Code 13": [
+              "DSLR",
+              "Film Camera",
+              "Arri",
+              "Blackmagic Design"
+          ]
+      },
+      {
+          "What was used as the murder weapon in Code 13": [
+              "Frizbee",
+              "Spatula",
+              "Frying Pan",
+              "Flip Flop"
+          ]
+      },
+      {
+          "What film did the OSFP shoot immediately after Code 13": [
+              "Code 14",
+              "Single Filipino Female",
+              "Murder in the First",
+              "Kitchen Makes Murder"
+          ]
+      },
+      {
+          "What was the murder weapon in Single Filipino Female": [
+              "Giant Spoon",
+              "Flip Flop",
+              "All of the above",
+              "None of the above"
+          ]
+      }
+  ],
     "QUESTIONS_DE_DE" : [
         {
             "Rentiere haben ein sehr dickes Fell. Wie viele Haare pro Quadratzentimeter haben sie?": [
